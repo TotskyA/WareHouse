@@ -1,0 +1,7 @@
+D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\bin\x64\Debug\WarehouseApp.exe
+D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\bin\x64\Debug\WarehouseApp.pdb
+D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\x64\Debug\WarehouseApp.MainForm.resources
+D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\x64\Debug\WarehouseApp.Properties.Resources.resources
+D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\x64\Debug\WarehouseApp.csproj.GenerateResource.Cache
+D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\x64\Debug\WarehouseApp.exe
+D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\x64\Debug\WarehouseApp.pdb
