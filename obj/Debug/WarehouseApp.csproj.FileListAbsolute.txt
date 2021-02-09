@@ -1,8 +1,0 @@
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csprojResolveAssemblyReference.cache
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.MainForm.resources
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.Cache
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.exe
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\bin\Debug\WarehouseApp.pdb
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.exe
-D:\Kurs\2019-2020\245093\WarehouseApp\WarehouseApp\obj\Debug\WarehouseApp.pdb
